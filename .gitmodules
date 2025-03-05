@@ -1,6 +1,4 @@
 [submodule "SQL_Assignment-1"]
 	path = SQL_Assignment-1
 	url = https://github.com/rohit5460sharmaa/SQL_Assignment-1.git
-[submodule "JavaScript_Assignment-1"]
-	path = JavaScript_Assignment-1
-	url = https://github.com/rohit5460sharmaa/JavaScript_Assignment-1.git
+
