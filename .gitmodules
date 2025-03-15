@@ -8,3 +8,6 @@
 [submodule "Quiz_Game"]
 	path = Quiz_Game
 	url = https://github.com/rohit5460sharmaa/Quiz_Game.git
+[submodule "JavaAssignments"]
+	path = JavaAssignments
+	url = https://github.com/rohit5460sharmaa/JavaAssignments.git
