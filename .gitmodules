@@ -11,3 +11,6 @@
 [submodule "JavaAssignments"]
 	path = JavaAssignments
 	url = https://github.com/rohit5460sharmaa/JavaAssignments.git
+[submodule "JavaAssignment-3"]
+	path = JavaAssignment-3
+	url = https://github.com/rohit5460sharmaa/JavaAssignment-3.git
